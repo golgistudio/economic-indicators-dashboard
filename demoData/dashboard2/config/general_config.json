@@ -4,7 +4,7 @@
  "footer-right-text": "footer-right-text",
  "header-right-text": "header-right-text",
 
- "chart-config-file": "https://raw.githubusercontent.com/codeforsanjose/economic-indicators-dashboard/gh-pages/data/charts_config.json",
+ "chart-config-file": "https://raw.githubusercontent.com/golgistudio/economic-indicators-dashboard/gh-pages/data/charts_config.json",
  "chartsConfigFileName": "charts_config.json",
 
  "indicator-guid": "SAN-JOSE-ECONO-INDIC",
@@ -13,8 +13,8 @@
 
  "urlConfig": {
    "useURLConfig": true,
-   "configURL": "https://raw.githubusercontent.com/codeforsanjose/economic-indicators-dashboard/gh-pages/demoData/dashboard2/config",
-   "dataURL": "https://raw.githubusercontent.com/codeforsanjose/economic-indicators-dashboard/gh-pages/demoData/dashboard2/data/q1",
+   "configURL": "https://raw.githubusercontent.com/golgistudio/economic-indicators-dashboard/gh-pages/demoData/dashboard2/config",
+   "dataURL": "https://raw.githubusercontent.com/golgistudio/economic-indicators-dashboard/gh-pages/demoData/dashboard2/data/q1",
    "useDataMap": true,
    "dataMap": {
       "SAN-JOSE-ECONO-INDIC":"econ_indicators_q12016_junar_CMO-T17-117LT_1.csv",
@@ -23,7 +23,7 @@
       "MONTH-UNEMP-RATE": "monthly_unemployment_may2016_sj_sjmsa.csv",
       "LABOR-FORCE-BY-AGE": "labor_force_by_age_acs2014.csv",
       "EDUCA-ATTAI-FOR-SAN-JOSE":  "edu_attainment_2014.csv",
-      "MONTH-APART-RENTS": "monthly_apt_rend_rendjungle.csv",
+      "MONTH-APART-RENTS": "monthly_apt_rent_rentjungle.csv",
       "MEDIA-HOME-PRICE": "monthly_home_prices.csv"
    }
  }
